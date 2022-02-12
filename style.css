@@ -126,19 +126,7 @@ h1 {
 .flowing {
     text-shadow: 5px 6px 7px #666666;
     margin: 0;
-    font-size: 35px;
+    font-size: 40px;
     font-weight: bold;
-    color: #ff6347;
-    white-space: nowrap;
-    overflow: hidden;
-    animation: flowing-anim 8s;
-}
-
-@keyframes flowing-anim {
-    0% {
-        width: 0%;
-    }
-    100% {
-        width: 100%;
-    }
+    color: #ff3366;
 }
