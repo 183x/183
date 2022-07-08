@@ -81,6 +81,17 @@ h2 {
     font-weight: bold;
 }
 
+#counter {
+    margin-top: 20px;
+    width: 180px;
+    text-align: center;
+    background: #f4546c;
+    font-size: 14px;
+    line-height: 34px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+}
 
 html {
     height: 100%;
